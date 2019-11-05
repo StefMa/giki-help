@@ -6,4 +6,4 @@ sidebarlogo: fresh-white-alt
 
 My super sweet first blog post!!
 
-See more [here](second.md)
+See more {{< ref "second.md" >}}
